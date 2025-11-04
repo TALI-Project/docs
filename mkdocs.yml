@@ -1,0 +1,43 @@
+site_name: TALI AI Project Documentation
+site_url: TBD
+site_description: 'Official documentation for the TALI (Task Adaptive Learning Interface) AI project.'
+repo_url: TBD
+repo_name: TALI-Project/tali-core
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue_grey
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue_grey
+      accent: indigo
+      toggle:
+          icon: material/brightness-4
+          name: Switch to light mode
+    - features:
+        - navigation.sections
+        - navigation.top
+        - search.highlight
+        - search.suggest
+        - toc.integrate
+        - content.code.annotate
+        - content.code.copy
+        - content.tabs.link
+        - header.autohide
+nav:
+  - 'Home': index.md
+  - 'TALI Compendium':
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - toc:
+        permalink: true
