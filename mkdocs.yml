@@ -34,6 +34,41 @@ theme:
 nav:
   - 'Home': index.md
   - 'TALI Compendium':
+      - 'Overview': compendium/1_tali_overview.md
+      - 'Architecture': compendium/2_tali_architecture.md
+      - 'Tech Stack': compendium/3_tali_tech_stack.md
+      - 'Hardware Environment Requirements': compendium/4_tali_hardware_environment_requirements.md
+      - 'Network Topology Trust Zones': compendium/5_tali_network_topology_trust_zones.md
+      - 'AI Learning Engine': compendium/6_tali_ai_learning_engine.md
+      - 'Resident Feedback Loop': compendium/7_tali_resident_feedback_loop.md
+      - 'Ethics Alignment': compendium/8_tali_ethics_alignment.md
+      - 'Integration Layer': compendium/9_tali_integration_layer.md
+      - 'Analytics Metrics': compendium/10_tali_analytics_metrics.md
+      - 'Research Appendix Experimental Features': compendium/11_tali_research_appendix_experimental_features.md
+      - 'Persona Design': compendium/12_tali_persona_design.md
+      - 'Prompt Architecture': compendium/13_tali_prompt_architecture.md
+      - 'Voice Audio Pipeline': compendium/14_tali_voice_audio_pipeline.md
+      - 'Messenger IO': compendium/15_tali_messenger_io.md
+      - 'Ethics Alignment Safeguards': compendium/16_tali_ethics_alignment_safeguards.md
+      - 'Accessibility Internationalization': compendium/17_tali_accessibility_internationalization.md
+      - 'Event System': compendium/18_tali_event_system.md
+      - 'Data Model': compendium/19_tali_data_model.md
+      - 'System Services': compendium/20_tali_system_services.md
+      - 'Deployment Environments': compendium/21_tali_deployment_environments.md
+      - 'Performance Targets SLOS': compendium/22_tali_performance_targets_slos.md
+      - 'Maintenance Update System': compendium/23_tali_maintenance_update_system.md
+      - 'Disaster Recovery Runbooks': compendium/24_tali_disaster_recovery_runbooks.md
+      - 'Integration Interoperability': compendium/25_tali_integration_interoperability.md
+      - 'Admin Console UXUI': compendium/26_tali_admin_console_ux_ui.md
+      - 'Onboarding Device Enrollment': compendium/27_tali_onboarding_device_enrollment.md
+      - 'Configuration Schema Reference': compendium/28_tali_configuration_schema_reference.md
+      - 'Developer SDK': compendium/29_tali_developer_sdk.md
+      - 'Testing QA Strategy': compendium/30_tali_testing_qa_strategy.md
+      - 'Compliance Data Rights': compendium/31_tali_compliance_data_rights.md
+      - 'Security Architecture': compendium/32_tali_security_architecture.md
+      - 'Roadmap Development Phases': compendium/33_tali_roadmap_development_phases.md
+      - 'Glossary': compendium/34_tali_glossary_notation_reference.md
+
 
 markdown_extensions:
   - admonition
