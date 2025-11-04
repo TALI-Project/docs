@@ -68,6 +68,8 @@ nav:
       - 'Security Architecture': compendium/32_tali_security_architecture.md
       - 'Roadmap Development Phases': compendium/33_tali_roadmap_development_phases.md
       - 'Glossary': compendium/34_tali_glossary_notation_reference.md
+  - 'Architecture Decisions Record (ADR)':
+      - 'Introduction': adrs/index.md
 
 
 markdown_extensions:
