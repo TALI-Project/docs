@@ -1,8 +1,6 @@
 site_name: TALI AI Project Documentation
-site_url: TBD
+site_url: https://github.com/TALI-Project/docs
 site_description: 'Official documentation for the TALI (Task Adaptive Learning Interface) AI project.'
-repo_url: TBD
-repo_name: TALI-Project/tali-core
 
 theme:
   name: material
